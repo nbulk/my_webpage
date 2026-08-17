@@ -1,4 +1,11 @@
 baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+locale = 'de-DE'
+title = 'Niklas Bulk'
 theme = 'hermit-v2'
+
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "Über mich"
+    url = "/about/"

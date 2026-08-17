@@ -1,13 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 	<channel>
-		<title>My New Hugo Project</title>
+		<title>Niklas Bulk</title>
 		<link>http://localhost:1313/</link>
-		<description>Recent content on My New Hugo Project</description>
+		<description>Recent content on Niklas Bulk</description>
 		<generator>Hugo -- 0.165.0</generator>
 		<language>en</language>
 		<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 		
+		
+		<item>
+			<title>Über mich</title>
+			<link>http://localhost:1313/about/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/about/</guid>
+			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<p><img src="2026-08-05-profileNiklas.jpg" alt="Profilbild von Niklas"></p>
+<p>Mein Name ist Niklas Bulk. Ich habe Wirtschaftsingieurwesen mit dem Schwerpunkt Kommunikationstechnik an der <a href="https://www.haw-kiel.de/startseite/">HAW Kiel</a> im Bachelor sowie im Fernstudium an der <a href="https://www.wings.hs-wismar.de/de">Hochschule WINGS</a> in Wismar im Master studiert. Meine Promotion habe ich im Juli 2026 an der Universität Bremen abgeschlossen.</p>
+<ul>
+<li>Bachelorarbeit (2017): &ldquo;Entwicklung und Optimierung eines breitbandigen Phasenschiebers im GHz Bereich&rdquo;</li>
+<li>Masterarbeit (2020): &ldquo;Implementation of a 5G URLLC Simulation Software in Python&rdquo;</li>
+<li>Doktorarbeit (2026): &ldquo;Multi-Service Composition using Tailored MCS for Industrial Wireless Communication&rdquo;</li>
+</ul>
+<p>Ich bin als wissenschaftlicher Mitarbeiter an der <a href="https://www.uni-bremen.de">Universität Bremen</a> im <a href="https://www.ant.uni-bremen.de">Arbeitsbereich Nachrichtentechnik</a> (ANT) tätig.
+Mein Schwerpunkt liegt auf industriellen Funknetzen und ihrer Integration in Campusnetze.
+Am ANT habe ich mich insbesondere mit serviceorientierter Kommunikation beschäftigt.
+Dabei betrachten wir nicht das Netzwerk als Ganzes, sondern die Anforderungen einzelner Services an die Kommunikation.
+Je nach Anwendung unterscheiden sich diese Anforderungen beispielsweise hinsichtlich Zuverlässigkeit, Latenz oder Datenrate.
+Das Campusnetz muss darauf entsprechend reagieren können.
+Ich bin überzeugt, dass dieser Gedanke auch für zukünftige agentische KI-Systeme an Bedeutung gewinnen wird.
+Wenn mehrere KI-Agenten miteinander und mit technischen Systemen interagieren, werden auch sie unterschiedliche Anforderungen an die zugrunde liegende Kommunikation stellen.
+Netzwerke müssen diese Anforderungen erkennen und sich dynamisch daran anpassen können.
+Neben den fachlichen Kenntnissen habe ich während meiner Arbeit am ANT vor allem Erfahrung in der Entwicklung reproduzierbarer Simulationen, im zielgruppengerechten Schreiben wissenschaftlicher und nichtwissenschaftlicher Texte sowie im abstrakten Denken und Visualisieren gesammelt.</p>
+<p>In meiner Freizeit spiele ich Tuba im <a href="https://www.uni-bremen.de/orchester-chor">Ocherster der Universität Bremen</a>, hier versorge ich die Brass-Section neben tiefen Tönen auch mit guten <a href="/dad-jokes">Dad-Jokes</a>. Daneben segel ich gerne bei der <a href="https://www.sub-bremen.de/">Segelgemeinschaft der Uni</a> und auf den niederländischen Binnenmeeren.
+Lesen ist ein weiteres Hobby von mir.
+In der Zukunft werde ich auch Buchbesprechungen hier veröffentlichen.</p>
+]]></content>
+		</item>
 		
 	</channel>
 </rss>

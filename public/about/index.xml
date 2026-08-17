@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Abouts on Niklas Bulk</title>
+		<link>http://localhost:1313/about/</link>
+		<description>Recent content in Abouts on Niklas Bulk</description>
+		<generator>Hugo -- 0.165.0</generator>
+		<language>en</language>
+		<atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+		
+		
+		<item>
+			<title></title>
+			<link>http://localhost:1313/about/about/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/about/about/</guid>
+			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<h1 id="über-mich">Über mich<a href="#%c3%bcber-mich" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round" class="feather">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
+
+
+<p>Mein Name ist Niklas Bulk. Ich habe Wirtschaftsingieurwesen mit dem Schwerpunkt Kommunikationstechnik an der <a href="https://www.haw-kiel.de/startseite/">HAW Kiel</a> im Bachelor sowie im Fernstudium an der <a href="https://www.wings.hs-wismar.de/de">Hochschule WINGS</a> in Wismar im Master studiert. Meine Promotion habe ich im Juli 2026 an der Universität Bremen abgeschlossen.</p>
+<ul>
+<li>Bachelorarbeit (2017): &ldquo;Entwicklung und Optimierung eines breitbandigen Phasenschiebers im GHz Bereich&rdquo;</li>
+<li>Masterarbeit (2020): &ldquo;Implementation of a 5G URLLC Simulation Software in Python&rdquo;</li>
+<li>Doktorarbeit (2026): &ldquo;Multi-Service Composition using Tailored MCS for Industrial Wireless Communication&rdquo;</li>
+</ul>
+<p>Ich bin als wissenschaftlicher Mitarbeiter an der <a href="https://www.uni-bremen.de">Universität Bremen</a> am <a href="https://www.ant.uni-bremen.de">Arbeitsbereich Nachrichtentechnik</a> (ANT) angestellt und beschäftigte mich mit industriellen Funknetzen sowie deren Etablierung in Campus Netzen.
+Am ANT forschte ich an Service-orientierter Kommunikation.
+Dabei betrachten wir nicht die gesamte Netzwerkkommunikation, sondern die Kommunikation einzelner Services mit unterschiedlichen Kommunikationsansprüchen.
+Ich denke, dass diese Art zu kommunizieren in Zukunft für agentischen-KI System eine zentrale Bedeutung finden wird.
+Einzelne KI-Agenten werden ebenfalls unterschiedliche Ansprüche an die technische Kommunikation stellen.
+Das Netzwerk muss sich diesen Ansprüchen anpassen und adaptieren.
+Neben den fachlichen Kentnissen sammelte ich hier vorallem wichtige Erfahrung im Bereich Programmierung von reproduzierbaren Simulationen, zielgruppengerechtes Schreiben von (nicht-)wissenschaftlichen Texten, sowie im abstrakten Denken und Visualisieren.</p>
+<p>In meiner Freizeit spiele ich Tuba im <a href="https://www.uni-bremen.de/orchester-chor">Ocherster der Universität Bremen</a>, hier versorge ich die Brass-Section neben tiefen Tönen auch mit guten <a href="/dad-jokes">Dad-Jokes</a>. Daneben segel ich gerne bei der <a href="https://www.sub-bremen.de/">Segelgemeinschaft der Uni</a> und auf den niederländischen Binnenmeeren.
+Lesen ist ein weiteres Hobby von mir.
+In der Zukunft werde ich auch Buchbesprechungen hier veröffentlichen.</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
