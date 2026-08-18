@@ -1,11 +1,56 @@
-baseURL = 'https://example.org/'
-locale = 'de-DE'
-title = 'Niklas Bulk'
-theme = 'hermit-v2'
+#baseURL = 'https://example.org/'
+#locale = 'de-DE'
+#title = 'Niklas Bulk'
+#theme = 'hermit-v2'
 
+
+#[menu]
+#  [[menu.main]]
+#    identifier = "about"
+#    name = "Über mich"
+#    url = "/about/"
+
+
+baseURL = "https://DEINE-DOMAIN.de/"
+languageCode = "de"
+defaultContentLanguage = "de"
+
+title = "Niklas Bulk"
+
+theme = "hermit-v2"
+
+enableRobotsTXT = false
+enableEmoji = false
+
+[params.author]
+  name = "Niklas Bulk"
+
+[params]
+  homeSubtitle = "Über meine Welt und mich"
+  justifyContent = false
+
+  code_copy_button = true
+  homeSubtitlePrinter = true
+  scrollToTop = true
+
+  global_mathjax = false
+  shareSocial = false
+
+  [params.gallery]
+    enable = true
+    width = "300"
+    layout = "grid"
+
+  [params.pages]
+    relatedPosts = true
+
+[taxonomies]
+  tag = "tags"
 
 [menu]
+
   [[menu.main]]
     identifier = "about"
     name = "Über mich"
     url = "/about/"
+    weight = 10
