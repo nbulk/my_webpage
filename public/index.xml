@@ -5,14 +5,14 @@
 		<link>http://localhost:1313/</link>
 		<description>Recent content on Niklas Bulk</description>
 		<generator>Hugo -- 0.165.0</generator>
-		<language>en</language>
+		<language>de</language>
 		<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 		
 		
 		<item>
 			<title>Über mich</title>
 			<link>http://localhost:1313/about/</link>
-			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/about/</guid>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>Niklas Bulk</author><guid>http://localhost:1313/about/</guid>
 			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<p><img src="2026-08-05-profileNiklas.jpg" alt="Profilbild von Niklas"></p>
 <p>Mein Name ist Niklas Bulk. Ich habe Wirtschaftsingieurwesen mit dem Schwerpunkt Kommunikationstechnik an der <a href="https://www.haw-kiel.de/startseite/">HAW Kiel</a> im Bachelor sowie im Fernstudium an der <a href="https://www.wings.hs-wismar.de/de">Hochschule WINGS</a> in Wismar im Master studiert. Meine Promotion habe ich im Juli 2026 an der Universität Bremen abgeschlossen.</p>
 <ul>
