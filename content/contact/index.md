@@ -5,7 +5,7 @@ title: "Kontakt"
 Du willst mit mir in Kontakt treten?
 Sende mir einfach eine Nachricht mit deinem Namen, Mail-Adresse und Anliegen. 
 
-Ich komme dann auf dich zu, solbald ich mich daraum kümmern kann.
+Ich komme dann auf dich zu, sobald es mir möglich ist.
 
 Für dieses Kontaktformular nutze ich [Formspree](https://formspree.io/). 
 Ich habe mich bewusst für einen möglichst datensparsamen Dienst entschieden und bin so bei dieser einfachen Lösung gelandet. 
