@@ -10,7 +10,7 @@
 #    url = "/about/"
 
 
-baseURL = "https://DEINE-DOMAIN.de/"
+baseURL = "https://nbulk.github.io"
 locale = 'de-DE'
 
 title = "Niklas Bulk"
