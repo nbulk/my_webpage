@@ -54,3 +54,9 @@ enableEmoji = false
     name = "Über mich"
     url = "/about/"
     weight = 10
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Kontakt"
+    url = "/contact/"
+    weight = 30
