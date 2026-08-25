@@ -10,6 +10,20 @@
 		
 		
 		<item>
+			<title>Kontakt</title>
+			<link>http://localhost:1313/contact/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>Niklas Bulk</author><guid>http://localhost:1313/contact/</guid>
+			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<p>Du willst mit mir in Kontakt treten?
+Sende mir einfach eine Nachricht mit deinem Namen, Mail-Adresse und Anliegen.</p>
+<p>Ich komme dann auf dich zu, sobald es mir möglich ist.</p>
+<p>Für dieses Kontaktformular nutze ich <a href="https://formspree.io/">Formspree</a>.
+Ich habe mich bewusst für einen möglichst datensparsamen Dienst entschieden und bin so bei dieser einfachen Lösung gelandet.
+Deine Nachricht wird auf den Servern von Formspree gespeichert; die <a href="https://formspree.io/legal/privacy-policy/">Datenschutzerklärung von Formspree</a> findest du hier.
+Bitte nutze das Formular daher nur für deine Kontaktanfrage und nicht für die Übermittlung sensibler oder vertraulicher Daten.</p>
+]]></content>
+		</item>
+		
+		<item>
 			<title>Über mich</title>
 			<link>http://localhost:1313/about/</link>
 			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>Niklas Bulk</author><guid>http://localhost:1313/about/</guid>

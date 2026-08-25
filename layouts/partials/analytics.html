@@ -1,0 +1,7 @@
+{{/* Google Analytics 4, use UA-PROPERTY_ID */}}
+{{- if .Site.Config.Services.GoogleAnalytics.ID -}} 
+{{ partial "google_analytics.html" . }}
+{{- end -}}
+
+{{/* Umami Analytics */}}
+<script defer src="https://cloud.umami.is/script.js" data-website-id="883f3dae-64b3-41bf-b888-5cc1217badf2"></script>
