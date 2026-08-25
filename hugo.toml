@@ -1,6 +1,17 @@
+#baseURL = 'https://example.org/'
+#title = 'Niklas Bulk'
+#theme = 'hermit-v2'
+
+
+#[menu]
+#  [[menu.main]]
+#    identifier = "about"
+#    name = "Über mich"
+#    url = "/about/"
+
+
 baseURL = "https://DEINE-DOMAIN.de/"
-languageCode = "de"
-defaultContentLanguage = "de"
+locale = 'de-DE'
 
 title = "Niklas Bulk"
 
@@ -14,6 +25,8 @@ enableEmoji = false
 
 [params]
   homeSubtitle = "Über meine Welt und mich"
+  themeColor = "#4c566a"
+  accentColor = "#bf616a"
   justifyContent = false
 
   code_copy_button = true
